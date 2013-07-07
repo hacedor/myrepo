@@ -1,3 +1,2 @@
 line
 line2 .txt
-line3
